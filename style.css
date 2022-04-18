@@ -12,6 +12,7 @@
 
 h1:hover {
   color: var(--icon-secondary);
+  background: var(--text-primary);
 }
 
 body {
