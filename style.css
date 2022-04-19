@@ -133,7 +133,6 @@ main {
   }
   .navbar-nav {
     flex-direction: row;
-    width: 100%;
   }
   .nav-link {
     justify-content: center;
