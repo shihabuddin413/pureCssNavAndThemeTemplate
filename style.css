@@ -127,6 +127,9 @@ main {
   #themeButtons, #themeButtonContainer {
     background: var(--bg-primary);
   }
+  main { 
+    padding-bottom: 5rem;
+  }
 
   .logo {
     display: none;
